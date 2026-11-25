@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Strideo</string>
+    <string name="widget_summary_label">Strideo Daily Summary</string>
+    <string name="widget_summary_description">View daily steps, distance, calories, water, and launch GPS tracking from your home screen.</string>
+    <string name="widget_quick_track_label">Strideo Quick GPS</string>
+    <string name="widget_quick_track_description">Compact monochrome widget showing today\'s distance with one-tap GPS tracking.</string>
+</resources>

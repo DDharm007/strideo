@@ -1,0 +1,6 @@
+{
+  "name": "Strideo",
+  "description": "A minimalist monochrome GPS running, cycling, and health tracking platform with interactive street/satellite/terrain maps, local Room storage, performance analytics, and streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
